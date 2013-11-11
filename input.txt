@@ -1,0 +1,4 @@
+This file is to test the program.
+In the previous line we should have a substitution (testWITHcheck).
+Here we should not have it: t-e-s-t.
+there is not anything here.
